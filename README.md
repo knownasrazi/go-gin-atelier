@@ -1,61 +1,36 @@
-﻿<div align="center">
-
-# go-gin-atelier
-
-**Gin, atelier-grade.**
-
-![license](https://img.shields.io/github/license/knownasrazi/go-gin-atelier?style=flat-square&color=ebe7e0&label=license)
-![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square&label=version)
-![lang](https://img.shields.io/badge/lang-go-ede9e3?style=flat-square&label=lang)
-
-Go Gin atelier - clean handlers and cream middleware for APIs.
-
-</div>
+> ![license](https://img.shields.io/github/license/knownasrazi/go-gin-atelier?style=flat-square&color=ebe7e0) ![lang](https://img.shields.io/badge/lang-Go-ede9e3?style=flat-square) ![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square)
 
 ---
 
-## Why go-gin-atelier?
+# go-gin-atelier
 
-> Gin, atelier-grade. - built for vibe coders and web developers who ship with taste.
+**Go Gin atelier - clean handlers and cream middleware for APIs.**
 
-Go Gin atelier - clean handlers and cream middleware for APIs. This template keeps the cream aesthetic - stone, ink, and low contrast - and ships with a clean structure you can vibe-code on top of.
+> Gin, atelier-grade.
+
+---
+
+## go-gin-atelier vs the rest
+
+| Tool | go-gin-atelier | Others |
+|------|-----------|--------|
+| **Privacy** | Local-first | Cloud upload |
+| **Aesthetic** | Cream, stone, ink | Neon, noise |
+| **Vibe** | For coders who ship | For managers who watch |
 
 ## Stack
 
-- **Language:** go
-- **Style:** Tailwind cream tokens, Biome where applicable
-- **Quality:** CI, lint, and a minimal test harness
+- Go — Go 1.22 + Gin
+- Built for the browser and the terminal
 
-## Get started
+## Run locally
 
 ```bash
 git clone https://github.com/knownasrazi/go-gin-atelier.git
 cd go-gin-atelier
+go run main.go
 ```
-
-Language-specific quick start is inside.
-
-## Structure
-
-```
-go-gin-atelier/
-  README.md
-  LICENSE
-  src/ or app/  # language entry
-```
-
-## Cream tokens
-
-Cream #fdfcfa, stone #ebe7e0, ink #1a1a1a.
 
 ## License
 
-[MIT](./LICENSE) + [Razi](https://github.com/knownasrazi)
-
----
-
-<div align="center">
-
-**go-gin-atelier** - Go Gin atelier - clean handlers and cream middleware for APIs.
-
-</div>
+[MIT](./LICENSE)
